@@ -33,7 +33,7 @@ Sistema hecho con **React** para administrar productos de una tienda, consumiend
 #### ⚠️⚠️⚠️ Recuerda que debes descargada la API de aqui:🔗[NELMIXAPIFRONT](https://github.com/nelmix-git/Api-PruebaFront)
 
 
-✅- Iniciar la API en tu LocalHost: Dirígete a la terminal y navega a la carpeta ```Api-PruebaFront``` y ejecuta el comando ```dotnet run```, en caso de recibir un error, prueba con el comando ```dotnet watch run```  Luego veras que se abre una ventana en tu navegador predeterminado, esto significa que tu API está corriendo correctamente en tu localHost. (Si usaste el comando ```dotnet run``` no se abrira ninguna ventana)
+✅- Iniciar la API en tu LocalHost: Dirígete a la terminal y navega a la carpeta ```Api-PruebaFront``` y ejecuta el comando ```dotnet run```, en caso de recibir un error, prueba con el comando ```dotnet watch run```  Luego veras que se abre una ventana en tu navegador predeterminado, esto significa que tu API está corriendo correctamente en tu localHost. (Si usaste el comando ```dotnet run``` no se abrira ninguna en tu navegador ventana)
 Deberias de ver esto en tu navegador 👇👇
 
 ![image](https://cdn.discordapp.com/attachments/962504879190982706/1165739720769294336/image.png?ex=6547f2b7&is=65357db7&hm=0f79846af6217944f13610201e47b7e0f745887c4f85b75e83fb2a13043055d2&)
