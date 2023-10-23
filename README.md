@@ -17,9 +17,9 @@ Sistema hecho con **React** para administrar productos de una tienda, consumiend
 
 ![image](https://cdn.discordapp.com/attachments/962504879190982706/1165726544673636393/image.png?ex=6547e672&is=65357172&hm=a08c578c1b29e53ecc200ef5aa74661775b09f7d0739a2cb4cdb783fb996d786&)
 
-
+## EL proyecto no nesecita que se instale NADA. (Incluye NodeModules)
 👌Igualmente aqui te dejo todos los links de las librerías utilizadas:
-- 🔗[sweetalert2](https://www.npmjs.com/package/sweetalert2) (⚠️⚠️ Obligatorio instalar para generar la carpeta NODE MODULES⚠️⚠️)
+- 🔗[sweetalert2](https://www.npmjs.com/package/sweetalert2) (no hace falta instalar)
 - 🔗[reactstrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction) (no hace falta instalar)
 - 🔗[react-sweetalert2](https://www.npmjs.com/package/react-sweetalert2)(no hace falta instalar)
 - 🔗[formik](https://formik.org/) (No se utiliza, pero útil para expandir el proyecto)
